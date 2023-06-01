@@ -1,0 +1,32 @@
+body {
+    background-color: #040F0F;
+}
+
+header {
+    height: 300px;
+}
+
+.navbar {
+    background-color: #77F9EE;
+
+}
+
+.EA {
+    color: black;
+}
+
+.htmlbar {
+    height: 30px;
+}
+
+.cssbar {
+    height: 30px;
+}
+
+.bsbar {
+    height: 30px;
+}
+
+.jsbar {
+    height: 30px;
+}
