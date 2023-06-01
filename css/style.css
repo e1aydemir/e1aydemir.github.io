@@ -1,13 +1,14 @@
 body{
-    background-color: #77F9EE;
-}
-
-.navbar{
     background-color: #040F0F;
+}
+header{
+    height: 300px;
+}
+.navbar{
+    background-color: #77F9EE;
     
 }
 
 .EA{
-    color: #77F9EE;
-    font-family: 'Courier New', Courier, monospace;
+    color: black;
 }
