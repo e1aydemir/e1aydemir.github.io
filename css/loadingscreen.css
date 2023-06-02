@@ -24,8 +24,9 @@ body
   text-transform:uppercase;
   text-shadow:0 0 10px #77F9EE;
   box-shadow:0 0 20px rgba(0,0,0,.5);
-  
+  cursor: pointer;
 }
+
 .ring:before
 {
   content:'';
