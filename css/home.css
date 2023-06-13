@@ -2,7 +2,7 @@ body{
     background-color: #040F0F;
 }
 header{
-    height: 300px;
+    height: 175px;
 }
 .navbar{
     background-color: #77F9EE;
@@ -11,4 +11,17 @@ header{
 
 .EA{
     color: black;
+}
+
+.home{
+    color: white;
+}
+
+.gif{
+    margin-top: 75px;
+}
+.EA
+
+.about{
+    margin-top: 100px;
 }
