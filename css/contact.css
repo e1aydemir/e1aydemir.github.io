@@ -2,7 +2,7 @@ body{
     background-color: #040F0F;
 }
 header{
-    height: 300px;
+    height: 150px;
 }
 .navbar{
     background-color: #77F9EE;
@@ -12,4 +12,30 @@ header{
 .EA{
     color: black;
 }
+.animate-character
+{
+   text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #77F9EE 5%,
+    #ffff 39%,
+    #ff1361 67%,
+    #fff800 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+  display: inline-block;
+      font-size: 190px;
+}
 
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
